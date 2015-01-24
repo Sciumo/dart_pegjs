@@ -1,0 +1,9 @@
+name: pegjs
+version: 0.0.1
+author: Sciumo
+description: Simple wrapper for PegJs
+homepage: https://github.com/Sciumo/dart_pegjs
+dependencies:
+  browser: any
+dev_dependencies:
+  unittest: any
